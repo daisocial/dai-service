@@ -1,9 +1,0 @@
-pcm.!default {
-	type pulse
-	card 1
-}
-
-ctl.!default {
-	type pulse        
-	card 1
-}
