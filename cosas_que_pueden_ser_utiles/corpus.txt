@@ -1,0 +1,527 @@
+Robot, baja los toldos
+Whatsapp a Toni
+Envía un Whatsapp a Cristina, dile que estoy bien
+¿Dónde está el mando de la tele?
+Enciende la calefacción del baño 
+Conecta la inducción 2 a las 13.30h
+Toma nota  lista de compra, filetes  ternera , huesos, etc
+LLAMA A LA POLICIA
+Llama a juanjo para tomar una cerveza 
+Repasame la agenda de hoy
+¿Hace falta algo de compra?
+Informame sobre noticias importantes de actualidad
+¿Es el cumpleaños de algún conocido?
+Retrasa el despertador 5 minutos más.
+¿Podrías encender la televisión?
+¿Podrías encender la radio?
+¿Podrías bajar las persianas?
+¿Tengo alguna notificación?
+¿Podrías encender la luz?
+Enciende la televisión
+¿Qué temperatura hará mañana?
+Baja la basura
+Haz la cama
+Enciende la lavadora
+¿hay huevos en la nevera?
+¿Podrías comprobar si la puerta está cerrada con llave?
+¿Te importaría mirar si está el gas apagado?
+¿Me sacarías la basura fuera?
+¿Bajarías al bar de abajo a comprarme tabaco?
+¿Me calentarías el plato de comida en el microondas?
+Despiertame a las 7:00
+¿Qué hacen hoy en la tele?
+Prepara una ducha/baño.
+Avísame si me dejo la puerta abierta.
+Pon la calefacción
+¿Ha acabado la lavadora?
+¿Está encendida la calefacción?
+¿Me he dejado alguna luz encendida?
+Apaga todas las luces
+Enciende la calefacción a las 17h
+Calienta el salón
+¿Qué tiempo hace en la calle?
+Cierra las persianas del salón.
+Mándale un whatsapp a Antonio.
+Enciende todas las luces.
+¿Hay algún toldo sin bajar?
+Sube/baja el volumen de la tele
+Despiértame a las 8:00
+Ponme una alarma para mis pastillas
+Llama a Antonio
+Pon la alarma de la casa
+Apaga el "fuego" de la cocina
+Envíale un mensaje a mamá diciendo que ya he llegado.
+Responde el teléfono.
+¿Quién está llamando?
+¿Qué hacen en la tele hoy?
+¿Hace frío en la calle?
+¿Está lloviendo?
+¿Están los grifos cerrados?
+¿Dónde tengo las llaves?
+Llamar a número de emergencia
+Corre las cortinas
+Leeme el periódico
+¿Puedes subir la calefacción?
+Enciende la luz de la habitación
+¿Qué hora es?
+¿Que día es hoy?
+Sube las persianas
+Baja las persianas
+Enciende la tele
+Pon música
+Llama a mamá
+¿Está lloviendo?
+Enciende la TV
+¿Qué hora es?
+Sube el toldo
+Envía un whatsapp a María
+Llama a Anacleto
+Pon la calefacción a 25 grados
+Regar el jardín
+recojer toldo
+Cerrar puerta del garaje
+activar alarma
+cerrar puerta principal
+¿Puedes llenar la bañera?
+¿Puedes poner la lavadora?
+Ve encendiendo el ordenador
+¿Hay alguien en casa?
+¿He cerrado la puerta con llave?
+Enciende el horno a las 14:00
+Enchufa la calefaccion
+¿Hace frio en la calle?
+Baja la persiana del salon
+Manda un whatsapp a antonio
+¿Estan bajados los toldos?
+apaga la cafetera
+cierra la puerta de atrás
+programa el horno para las 13:00
+¿Dónde están mis llaves?
+La temperatura de hoy, por favor?
+Me rascas un poco las pelotillas?
+Hace fresquete no?
+Precalientame el horno para hacer unas croquetas
+pide ayuda para que te reparen o avisa que estas fallando en algo
+si esta conectado al coche ¿donde aparqué?
+despiertame en 1 hora
+¿he cerrado la puerta?
+¿ha sonado el timbre?
+avísame cuando acabe la lavadora
+Llena la bañera 
+Baja las persianas de la habitación
+Escribe un tweet que diga lo siguiente: Buenos días
+Sube todos los toldos
+Desactiva las llamadas entrantes
+¿Puedes poner la calefacción?
+¿Cuantos grados hay?
+¿Puedes bajar la persiana?
+¿Puedes contactar con Antonio por Whatsapp?
+¿Puedes encender todas las luces?
+¿Has bajado los toldos?
+Pon el despertador a las 8:00
+¿Hay pizza en la nevera?
+¿El aseo está ocupado?
+¿Alguien ha tocado el timbre mientras no estaba en casa?
+Activa el modo de ahorro de energía
+Ordena la habitación
+Realiza tarea de mantenimiento del hogar
+Tienes que despertarme a las seis y media
+Conecta el ordenador
+¿Que hora es?
+¿Esta la comida preparada?
+Preparame la bañera
+Despiertame a las 7
+Baja las luces y pon música suave
+Hazme la cama
+¿Me das un abrazo?
+Ordename la habitación
+enciendeme la calefacción
+que día hace hoy?
+Ciérrame las persianas
+Cómo estan los toldos?
+Hazme la cama
+Limpia la cocina
+Limpia el aseo
+Planchame la ropa
+¡Luces fuera!
+Apaga la tele
+¿Cuánto tráfico hay hasta Alicante?
+Mándame una foto al whatsapp si alguien toca el timbre.
+¿Puedes acompañar a mi invitado a la salida?
+¿Puedes comprobar mi temperatura corporal?
+Alúmbrame el salón
+¿cojo el abrigo?
+¿has abierto los toldos?
+Llena la bañera y calienta el agua. 
+¿Hay alguna luz encendida en la casa?
+¿Está programada la calefacción?
+¿Cuál será la temperatura fuera esta noche?
+¿activas la alarma?
+¿donde esta el perro?
+¿me recuerdas la agenda de mañana?
+¿quien será el próximo presidente de España?
+Coger cosas del suelo.
+¿Puedes traer agua?
+¿Puedes cerrar la puerta?
+Llama a Rafa Vidal
+¿que peliculas puedo ver ahora en la television?
+cierra el pestillo de la puerta
+despierta a papa
+¿puedes enchufar el aire?
+¿me pong chaqueta o no?
+¿puedes bajar la persiana?
+¿le puedes enviar un mensaje a Antonio?
+¿ me enciendes todas las luces?
+¿has bajado los toldos?
+Encender calefaccion
+Tiempo en Alicante
+Bajar persianas 
+Whatsapp a Nuria
+Encender luz
+He bajado los toldos?
+El salón está frío
+Tengo que ponerme más ropa para salir?
+En el salón entra demasiada luz por la ventana
+Escríbele a Antonio
+Quiero toda la casa iluminada
+Baja los toldos
+¿Puedes echar la pasta cuando empiece a hervir el agua?
+¿Puedes adoptar la forma del clip de word?
+¿En serio, no puedes?
+¿Podrias plancharme la ropikens?
+¿Hay alguna forma de que generes dinero para mi?
+¿Puedes hacerme pajas sin destruirme el nabo?
+Hazme una tostada de pavo y tomate
+¿Qué tiempo hace en Galicia?
+Enciende la calefacción
+Traemé el pijama
+Haz la cama
+¿Queda pan?
+Llama al médico 
+Avisa al técnico de la lavadora 
+Enciende el horno
+Conecta  la aspiradora 
+Desconecta la alarma 
+Pon la tele 
+Abre la ventana de la cocina
+¿Dónde he dejado el móvil?
+¿Podrías decirme la temperatura de la casa?
+Dime la receta de pato confitado
+Pon el disco de Black Ice de ACDC
+Baja el volumen de la radio
+¿Puedes decirme cuál es la programación de televisión a partir de las 22:00?
+esta todo en orden?
+como están los niños?
+faltan alimentos?
+comprueba la seguridad
+pon el canal seis
+activa el extractor
+¿Dónde está el sintrom?
+¿Hemos llegado ya? 
+¿Falta mucho?
+Riega las plantas
+Saca la basura
+Saca al perro
+Encienda la lavadora
+¿Me he dejado la calefacción puesta?
+Cierra la pó, que parece que va a llovú. Duendesillo&lt;3
+Enciende el interruptor de la regleta.
+Cierra la puerta de la nevera
+Enciende el calentador del agua
+Recuerdame que el martes tengo una cita con el dentista
+Riega las plantas
+¿Que humedad hay en el ambiente?
+¿Cuanto llevo consumido en la factura de la luz?
+Pon el despertador a las 8
+Desactiva el sonido del teléfono
+Ponle comida al perro
+calorcito, por favor
+¿me llevo la chaqueta?
+qué baje el telón
+whasapp para Antonio
+qué se haga la luz
+¿toldos bajados en casa?
+Pon en marcha la calefacción en el salón
+Que tiempo hace hoy
+Que no de el sol en el salón
+Ponle un whatsapp a antonio
+Enciende todo en la casa
+Todos los toldos de la casa están puestos
+¿Qué programación hay en la televisión?
+¿Hace cuánto no cambio las sábanas?
+¿Cuánto tiempo lleva el arroz en el fuego?
+Apagar el horno
+¿Cuándo tengo la próxima consulta del médico?
+Átame los cordones
+Abre las ventanas
+Prepara la bañera 
+Llama a mi madre
+Cancela la reunión 
+Apaga la calefacción a las 04:00 horas
+¿Puedes encender la calefacción del salón?
+¿Hace frío hoy?
+¿Bajas la persiana del salón?
+Manda un whatsapp a Antonio
+Ilumina toda la casa
+Comprueba que los toldos estén bajados
+¿Quien llama?
+¿Que tiempo va a hacer esta semana?
+¿Que hay que comprar?
+Busca una ruta para ir a villaconejo y mandala al GPS del coche
+Activar modo festivo
+Borra mi historial de navegador, vienen invitados
+Hay agua en la cafetera?
+Enciende la cafetera
+Despierta a todos
+Abre el garaje
+Programa las horas a las que debe funcionar cada electrodoméstico.
+Recuérdame la lista de la compra
+Tráeme la caja de pañuelos
+Cierra la puerta del salón. 
+Apaga la tele. 
+Riega las plantas. 
+Baja la basura. 
+Hace frío en la calle. 
+Abre las cortinas 
+Sube la persiana
+Baja la persiana 
+¿ Que temperatura hay en la sala?
+Enciende todas las luces 
+Enciende la música 
+Hazme la cama
+Pon lavadora
+Tiende la ropa
+Lavame el coche 
+He apagado la plancha,horno, etc?
+Me traes un vaso de agua?
+Limpia el arenero de las gatas
+¿crees que hay vida despues de la muerte?
+¿sabes cantar?
+desinfecta el aseo
+pon las luces en tonos romanticos
+desintoniza tele5
+Dime si tengo cartas en el buzón 
+Cierra las puertas de toda la casa
+Apaga todas las luces
+Realiza una llamada de emergencia 
+¿hay alguien en casa? 
+C3PO, ponme un thunderbitch
+Apaga la televisión
+¿Ha terminado la lavadora?
+Enciende el DVD
+Enciende el ordenador
+Enciende la PlayStation
+¿Está lloviendo?
+¿dónde está el gato?
+¿última noticia sobre algún tema interesante? 
+Limpiar las ventanas
+Calienta el salón 
+¿Hace frío? ¿Cómo está el dia?
+Oscurece el salón, cierra la persiana del salón 
+Avisa a Antonio 
+
+Calienta el salón 
+¿Hace frío? ¿Cómo está el dia?
+Oscurece el salón, cierra la persiana del salón 
+Avisa a Antonio 
+
+Calienta el salón 
+¿Hace frío? ¿Cómo está el dia?
+Oscurece el salón, cierra la persiana del salón 
+Avisa a Antonio 
+
+Enciende la estufa del salón
+¿Hace frio fuera?
+Mandale un mensaje a Antonio por Whatsapp
+pide un taxi
+llama a emergencias 
+¿le he dado de comer al gato?
+pon la alarma de casa
+pide un taxi
+llama a emergencias 
+¿le he dado de comer al gato?
+pon la alarma de casa
+¿Se ha sacado la basura?
+¿A qué hora juega el Madrid?
+¿Qué alimentos hay que comprar?
+¿Cuánto llevamos gastado de teléfono?
+¿Cuánto tiempo le falta a la pizza del horno?
+Desactiva el WIFI
+¿Queda cerveza?
+Avísame cuando termine la lavadora
+¿Cuanto llevo sentado delante del ordenador?
+¿Puedes mirarme las ofertas de steam?
+Si una habitación esta vacía más de 30 seg, apaga las luces si no te digo lo contrario.
+¿Puedes recordarme los cumpleaños de amigos y familiares la mañana de los mismos?
+¿A qué temperatura está el agua de la ducha?
+¿Quién ha tocado al timbre? 
+Tráeme los perservativos
+Activa la alarma y cierra puertas y ventanas
+Activa el proyector y pon el anime de hoy
+¿Quién es el mas guapo de la casa?
+Activar el manos libres cuando el tlf ha sonado varias veces
+Recordar cumpleaños, aniversarios, citas del medico,...
+Parar la lavadora cuando avise de que ha terminado
+Optimizar luces, aumentar y disminuir la intensidad según momento del día
+Despertar y subir persianas cada mañana
+Me tengo que poner abrigo?
+Ilumína la casa entera
+a las 16:00.ventila la casa durante 1 hora  (abre todas las ventanas de la casa) a continuacion , mantienes la temperatura a 22 grados
+traeran la compra del supermercado,cuando llamen al portero te daran la contraseña que tu y yo sabemos,si es asi,abres la puerta y que la dejen en la cocina.
+a las 16:00.ventila la casa durante 1 hora  (abre todas las ventanas de la casa) a continuacion , mantienes la temperatura a 22 grados
+por favor,analiza la despensa y envia al supermercado las lista de la compra
+traeran la compra del supermercado,cuando llamen al portero te daran la contraseña que tu y yo sabemos,si es asi,abres la puerta y que la dejen en la cocina.
+por favor,leeme todos los mails que tengo sin  abrir
+por favor,analiza la despensa y envia al supermercado las lista de la compra
+por favor,leeme todos los mails que tengo sin  abrir
+Tira de la cadena del vater
+¿Cuales son mis email más destacables?
+Enciende la chimenea
+Regula la calefacción de la casa a __º
+Llama al 112 y pide una ambulancia
+¿Donde he dejado las llaves?
+¿Cuál es la previsión del tiempo para hoy?
+¿cuánto tiempo necesito para llegar al trabajo según el tráfico?
+Léeme los Emails  que tenga
+Sube las persianas 
+Enciende el calefactor del baño 
+Enchufa el horno a 180 grados 
+Enciende la cafetera 
+Abre las cortinas y las persianas 
+Hazme la cama
+Pon música en casa
+Lee los nuevos WhatsApp 
+Que temperatura hace fuera?? 
+Corta el gas
+Tira de la cadena 
+Que hay en la nevera 
+Que puedo hacer hoy de comer 
+Queda detergente para la ropa 
+Pon música para limpiar
+Has apagado el gas?
+Has cerrado con llave?
+Está la luz apagada?
+Enchufamos la calefaccion? 
+¿A qué temperatura estamos?
+Bajarias las persianas del salon?
+Escríbele por whatsapp a Antonio 
+Ves encendiendo luces que no encuentro las llaves del coche
+Bajé los toldos antes de salir? Nos tomamos una birra un día?????? Pregunto!
+Pon la calefacción en el salón a X grados
+¿Que tiempo hace fuera?
+Cierra las persianas en el salón
+Mándale a Antonio por WhatsApp: "..."
+Enchufa las luces en casa casa
+¿Has bajados los toldos?
+¿Queda leche en la nevera?
+¿He apagado el horno?
+¿Están las persianas subidas?
+Enchufa la tele
+¿Está la lavadora vacía?
+¿Le queda batería a mi teléfono?
+que día va ha hacer hoy?
+¿donde estan mis gafas?
+pon la radio
+despiertame dentro de diez minutos
+haz la cama
+tráeme la medicación jajaja
+¿Están todas las persianas bajadas?
+Apaga el aire acondicionado de toda la casa
+Apaga todas las luces de la casa excepto la del salón
+Recoge todos los toldos
+¿Qué luces hay encendidas?
+Levanta todas las persianas y abre las ventanas
+Enciende la calefaccion 
+¿Hace rasca?
+Baja las persianas del Salon
+Whatsapea a Antonio
+LUCES! Por favor
+Baja los toldos
+¿Que dia de la semana es?
+¿He quedado con alguien hoy?
+Enciende el ordenador
+Leeme el correo electronico
+Enciende el televisor
+Pon la calefacción 
+¿A que temperatura esta la casa?
+¿Que temperatura hace en el exterior?
+¿Tengo alguna llamada perdida en el telefono?
+¿Puedes encender la chimenea?
+¿puedes subir (o bajar) la intensidad de la luz?
+¿Puedes conectar la alarma de seguridad?
+Puedes encender Calefaccion sala 1
+Cuál es la Temperatura exterior 
+Bajas la persiana de la sala 1 
+Mandas un whatsap a antonio
+Puedes encender todas las luces
+Puedes bajar los toldos
+¿Puedes poner la calefacción en el salón?
+¿Hace frio?
+Hay mucha luz en el salón
+¿Puedes escribirle un mensaje a antonio?
+¿Puedes encender todas las luces?
+¿Has bajado los toldos?
+¿Haces el favor de encender la calefacción del salón?
+¿Me puedes decir la temperatura que hace en la calle?
+¿Puedes bajar la persiana del salón?
+¿Le envías un whatsap a Antonio por mí?
+¿Te importa encender las luces de toda la casa?
+¿Puedes decirme si están los toldos bajados?
+Hace frío en el salón
+¿Qué tiempo hace en la calle?
+Me molesta la luz de la calle
+Manda un mensaje a Antonio
+Qué oscura está la casa
+¿Puedes bajar los toldos?
+Pon la calefacción del salón
+¿Qué tiempo hace?
+Cierra la persiana del salón
+Mensaje a Antonio
+Encender todas las luces
+¿has bajado todos los toldos?
+¿que hacen esta noche en la tele?
+¿en que ciudad me encuentro?
+llamar a papa
+¿que hora es en Alemania?
+enciende la calefaccion
+cuangos grados hay en la calle
+baja la persiana del salon
+escribele un whatsapp a antonio
+enciende toda la luz de casa
+estan los toldos abiertos?
+Pon la musica a todo trapo
+Conecta la lavadora
+¿Esta arreglada la verlocidad luz del Halcon Milenario?
+Llama a la Conchi recordandole lo mucho que le queremos y avisale de que nos hemos quedado sin comida
+Enciende la luz ambiente y las velas que esta noche hay tema
+Desconecta el timbre y el teléfono que la noche fue dura
+enciende el aire acondicionado a temperatura 22
+que día hace hoy?
+ve al salón y baja la persiana 
+coge mi móvil y envíale un WhatsApp a Antonio 
+enciende todas las luces de casa 
+comprueba que los toldos estén bajados 
+Pregunta 1: ¿Cerraste la puerta con llave?
+Pregunta 2: Llena la bañera con agua caliente
+Pregunta 3: ¿Que emiten esta noche en televisión?
+Pregunta 4: Pon el despertador a las 07:45
+Pregunta 5: Pon música clásica en la casa
+Pregunta 6: El baño apesta, ¿has sido tú o he sido yo?
+el color exacto de algo
+traeme una cerveza 
+limpiar
+que sepa escribir
+llamar por teléfono
+que lleve radio
+¿Puedes prepararme un baño? 
+Avísame en 30 minutos, que voy a dormir la siesta. 
+¿Qué hace falta comprar? 
+Cuando se vaya el sol, baja las persianas. 
+Mantén la casa a 24 grados. 
+¿Puedes localizarme el teléfono móvil? 
+Enciende la vitro. Fuego 3.
+Apaga la vitro en 20 min. Fuego 1.
+Enciende el lavaplatos.
+Enciende calefacción del aseo grande.
+Activa la alarma
+Desconecta la alarma.
